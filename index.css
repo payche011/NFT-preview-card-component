@@ -74,7 +74,7 @@ hr {
   content: "";
   position: absolute;
   inset: 0;
-  background-image: url("/images/icon-view.svg");
+  background-image: url("images/icon-view.svg");
   background-repeat: no-repeat;
   background-position: center center;
   cursor: pointer;
